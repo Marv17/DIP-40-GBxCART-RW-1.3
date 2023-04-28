@@ -9,7 +9,7 @@ Board can be HASL , 1.6mm thickness
 
 
 
-the atmega8515L need to be programmed with the correct frimware + bootloader
+the atmega8515L need to be programmed with the correct firmware + bootloader
 
 
 
