@@ -1,8 +1,7 @@
-# DIP-40-GBxCART-RW-1.3
-an fully functionnal GBxCART RW 1.3 hardware with a dip40 atmega8515l
 
 
-An fully functionnal GBxCart 1.3 device with a dip40 chip atmega 8515L , easy findable for cheap
+
+An fully functionnal GBxCart 1.3 hardware with a dip40 chip atmega 8515L , easy findable for cheap
 
 i recommande to use a SMT assembly service with the attached BOM , you just need solder a gba slot and the atmega 8515L yourself
 
