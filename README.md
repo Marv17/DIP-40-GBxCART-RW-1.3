@@ -13,7 +13,7 @@ the atmega8515L need to be programmed with the correct firmware + bootloader
 
 
 
-device designed from the schematic open source from insidegadget , with some changes
+device designed with the schematic open source from insidegadget , with some changes
 
 firmware + bootloader can be downloaded in attachement ''MCU_Files'' , can be easy programmed with an USBASP device
 
