@@ -3,7 +3,7 @@
 
 An fully functionnal GBxCart 1.3 hardware with a dip40 chip atmega 8515L , easy findable for cheap
 
-i recommande to use a SMT assembly service with the attached BOM , you just need solder a gba slot and the atmega 8515L yourself
+i recommande to use a SMT assembly service with the attached BOM and pick and place file , you just need solder a gba slot and the atmega 8515L yourself
 
 Board can be HASL , 1.6mm thickness
 
